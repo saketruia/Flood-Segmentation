@@ -31,9 +31,13 @@ Evaluation Metrics: Accuracy, IoU (Intersection over Union)
 
 📁 Project Structure
 ├── app.py                  # Streamlit web app
+
 ├── flood_save.h5          # Trained U-Net model
+
 ├── README.md              # Project documentation
+
 ├── sample_data/           # Optional image data
+
 └── requirements.txt       # Python dependencies (optional)
 
 💻 How to Run Locally
