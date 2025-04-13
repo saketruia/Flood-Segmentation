@@ -3,7 +3,7 @@ This project is a Deep Learning-based Web Application that performs semantic seg
 
 A look of what does it looks like:
 
-![alt text](image-2.png)
+![alt text](image-3.png)
 
 ![alt text](image-1.png)
 
@@ -41,6 +41,7 @@ Evaluation Metrics: Accuracy, IoU (Intersection over Union)
 └── requirements.txt       # Python dependencies (optional)
 
 💻 How to Run Locally
+
 Clone this repository:
 
 Install dependencies:
